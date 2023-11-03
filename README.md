@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TuoVaa543
 - 👀 I’m interested in Coding and Game coding
-- 🌱 I’m currently learning HTML5, CSS3, Jacascript, sql, myql, Postgresql,  
+- 🌱 I’m currently learning HTML5, CSS3, Jacascript, sql, myql, Postgresql,python and C#  
 - 💞️ I’m looking to collaborate on more languages than just those that i mentioned
 - 📫 How to reach me this is on progress to how
 
